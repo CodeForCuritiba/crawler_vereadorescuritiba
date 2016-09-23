@@ -1,5 +1,5 @@
 # crawler_vereadorescuritiba
-Programa nodejs para recuperar a lista dos vereadores de Curitiba publicada no site da Gazeta do Povo
+Programa nodejs para recuperar a lista dos candidatos a vereador de Curitiba publicada no site da Gazeta do Povo
 
 ## Run
 
